@@ -1,2 +1,3 @@
 # ShareHub
-something shared for others
+> Something shared on the Internet
+
